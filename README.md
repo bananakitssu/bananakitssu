@@ -5,7 +5,7 @@ I'm an independent developer building software, mostly around web frameworks, au
 ## Main projects
 
 - **[HostJS](https://github.com/bananakitssu/authtics-host)** — a Next.js-inspired framework for Node.js and React, with TypeScript/TSX support and SSR, SSG, and CSR rendering.
-- **Authtics** — my first npm package and the project that got me started with publishing packages.
+- **Authtics** — my first package. I removed it from the npm registry because it redirected users to Replit. The project is still in my Replit workspace, but it no longer has a public npm listing or GitHub repository.
 - **[Authtics Advisories](https://github.com/bananakitssu/found-malicious-packages)** — a project for tracking and reviewing security reports for npm and PyPI packages.
 
 ## Other projects and experiments
