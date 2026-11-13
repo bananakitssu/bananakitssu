@@ -16,7 +16,7 @@ I'm an independent developer building software, mostly around web frameworks, au
 - **BTDPE** — my first GitHub project. Development has been discontinued, and I moved on to building its successor, BEngine.
 - **BEngine** — a private project currently in development.
 
-Some of my other projects are AI-assisted, and they're at different stages of development. I try to be clear about what's active, experimental, private, or discontinued.
+My projects are at different stages of development, from active work to experiments and discontinued projects.
 
 ## What I use
 
